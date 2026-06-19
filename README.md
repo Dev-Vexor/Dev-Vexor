@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Vexor 👋
 
-<!--
-**Dev-Vexor/Dev-Vexor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer. Build fast — sites, bots, AI tools, backends. Ship in days, not months.
 
-Here are some ideas to get you started:
+## Stack
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+⚡ Landing pages & websites — fast delivery
+🤖 Telegram bots — any complexity
+🧠 AI-powered tools — Claude, GPT integrations
+🔧 Backend APIs & automation
+
+## Contacts
+Telegram: @Vexordev
